@@ -1,0 +1,37 @@
+title: Hi, I'm Virginie
+description: I create accessible, and performant user experiences on the web. I have been provided highly valuable design and achievement for large-scale digital plaforms.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+
+
+defaults:
+  -
+    scope:
+      type: posts
+      path: _posts
+    values:
+      is_post: true
+      layout: default
+      pemalink: /blog/:categories/:title
+  -
+    scope:
+      type: pages
+      path: _pages
+    values:
+      is_post: false
+      layout: default
+
+include: [_posts]
+include: [_page]
+
+---
+excerpt_separator: <!--more-->
+---
+Excerpt with multiple paragraphs
+Here's another paragraph in the excerpt.
+<!--more-->
+Out-of-excerpt
+
+imagesurl: "/assets/"
+thumbsurl: "/assets/"
