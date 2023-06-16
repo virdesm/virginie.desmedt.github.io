@@ -176,14 +176,11 @@ a {
 
 .project-tagline {
   display:flex;
-  justify-content:center;
-  height:46rem;
+  margin: 0rem 40rem 40rem 40rem;
 
 
   @include large {
     font-size: 1.60rem;
-    max-width:40rem;
-    margin-left: 73rem;
   }
 
   @include medium {
