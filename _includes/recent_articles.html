@@ -8,8 +8,9 @@
         <li>
             <p>{{ post.title }}</p>
                 <p>
-       {{ post.content | strip_html | truncatewords:75 }}
+       {{ post.content | site.baseurl strip_html | truncatewords:75 }}
        </p>
+       <p>{{ post.site.baseurl }}</p>
             </li>
         {% endfor %}
     </ul>

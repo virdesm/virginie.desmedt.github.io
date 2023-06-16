@@ -2,6 +2,14 @@
 @import "rouge-github";
 @import "variables";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+// importing core styling file
+@import "../scss/fontawesome.scss";
+
+// our project needs Solid + Brands
+@import "../scss/solid.scss";
+@import "../scss/brands.scss";
+@import "../scss/_icons.scss";
+
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
@@ -6939,6 +6947,38 @@ display:flex;
   font-size: 2rem;
 }
 
+
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: 14px;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transform: translate(0, 0);
+}
+
+.contacticon {
+  font-size: 60px;
+}
+
+contact a {
+  color: #FF3636;
+  font-weight: 100;
+}
+
+.img_row{
+  max-width:40rem;
+  padding-right:4rem;
+}
+
+.img_row-hp {
+  max-width: 20rem;
+  padding-left: 8rem;
+  display: flex;
+  justify-content: center;
+}
 
 
 
