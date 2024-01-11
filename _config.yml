@@ -11,7 +11,7 @@ title: Portfolio
 # Description of the Site
 description: A customizable Jekyll portfolio theme
 # URL of Image of the Site
-site-image: /virginie.desmedt.github.io/assets/images/meta.jpg
+site-image: https://raw.githubusercontent.com/virdesm/virginie.desmedt.github.io/gh-pages/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
