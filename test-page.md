@@ -1,29 +1,12 @@
 ---
-title: Test Page
+title: Work experience
 layout: page
 ---
-
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
-###### This is heading 6
-
-[This is a link](#)
-
-> This is a blockquote
-
-`This is code`
-
-### Bullet List
-* Item 1
-* Item 2
-* Item 3
-* Item 4
-
-### Number List
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
+### Summary
+* Hands-on knowledge of Information Systems as deplyed in corporate environment;
+* In depth knowledge of corporate web solutions
+* Strond readiness to keep abreast of technological developments and of new in-house practices;
+* Aptitude to understand and integrate business needs;
+* Aptitude to analyze and present clearly all available options to the business;
+* Ability to comply strictly with rules and guidelines (IT governance, europa web guide, DG in-house practices);
+* Structured approach and good planning skills.
