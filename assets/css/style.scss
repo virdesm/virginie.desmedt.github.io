@@ -37,6 +37,14 @@ a.navbar-item.is-active {
     border-color: grey;
 }
 
+#logo {
+        min-width:6em;
+        @media (max-width: 768px) {
+            }
+            .image {
+                max-width:6em;
+            }
+        }
 
 #hero {
     background: rgb(0, 0, 0);
