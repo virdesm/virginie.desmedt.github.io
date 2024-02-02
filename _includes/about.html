@@ -30,4 +30,15 @@
             </div>
         </div>
 </section>
-<script src="https://raw.githubusercontent.com/virdesm/virginie.desmedt.github.io/gh-pages/assets/js/player.js"></script>
+<script>function clic() {
+    compteurClics++;
+    document.getElementById("compteurClics").textContent = compteurClics;
+}
+
+var compteurClics = 0;
+
+document.getElementById("clic").addEventListener("click", clic);
+
+document.getElementById("desactiver").addEventListener("click", function () {
+    document.getElementById("clic").removeEventListener("click", clic);
+});</script>
