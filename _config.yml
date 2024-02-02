@@ -50,6 +50,7 @@ sass:
 plugins:
   - jekyll-admin
   - jekyll-feed
+  - jekyll-opal
 
 # Permalink
 permalink: "blog/:title"
