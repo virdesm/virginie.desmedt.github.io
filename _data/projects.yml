@@ -2,7 +2,7 @@
   image: https://raw.githubusercontent.com/virdesm/virginie.desmedt.github.io/gh-pages/assets/images/project-1.png
   link: https://raw.githubusercontent.com/virdesm/virginie.desmedt.github.io/gh-pages/assets/images/project-1.png
   description: Delivery of a self-resource learning course on the eGrants suite and the applications used to manage the grant programmes. 
-  See here (https://raw.githubusercontent.com/virdesm/virginie.desmedt.github.io/gh-pages/assets/images/project-1.png){:target="_blank"}
+  See [here] (https://raw.githubusercontent.com/virdesm/virginie.desmedt.github.io/gh-pages/assets/images/project-1.png){:target="_blank"}
 - name: EU grant lifecycle programmes - Collaborative systems
   image: https://raw.githubusercontent.com/virdesm/virginie.desmedt.github.io/gh-pages/assets/images/project-2.png
   link: https://raw.githubusercontent.com/virdesm/virginie.desmedt.github.io/gh-pages/assets/images/project-2.png
@@ -11,5 +11,6 @@
   link: https://raw.githubusercontent.com/virdesm/virginie.desmedt.github.io/gh-pages/assets/images/project-3.png
   image: https://raw.githubusercontent.com/virdesm/virginie.desmedt.github.io/gh-pages/assets/images/project-3.png
   description: Design of a Business Activity Monitoring timeline to visualise the events occurring on a single project throughout either the project as a whole or throughout one or more phases of the project. Any timeslice during the lifecycle of a project can be selected and focussed upon. Thus the user can control the “granularity” of the required information.
+
 
 
