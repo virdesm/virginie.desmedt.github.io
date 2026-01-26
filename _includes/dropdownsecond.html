@@ -2,7 +2,7 @@
     <a class="navbar-link">
         Project 1
     </a>
-    <div class="navbar-dropdown has-background-black is-left">
+    <div class="navbar-dropdown-second">
         {% for sitepage.url == '/projet-1' %}
         {% unless sitepage.url == '/' or sitepage.url == '/404'  or sitepage.url == '/blog' %}
         <a href="{{sitepage.url | absolute_url}}"
