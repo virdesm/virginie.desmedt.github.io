@@ -3,7 +3,7 @@
         Project 1
     </a>
     <div class="navbar-dropdown-second">
-        {% for sitepage in site.html_pages/project %}
+        {% for sitepage in site.html_projets %}
         {% unless sitepage.url == '/' or sitepage.url == '/404'  or sitepage.url == '/blog' %}
         <a href="{{sitepage.url | absolute_url}}"
             class="navbar-item has-text-grey-light {% if page.url == sitepage.url | absolute_url  %}is-active{% endif %}">
