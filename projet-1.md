@@ -1,6 +1,6 @@
 ---
 title: Project 1
-layout: page
+layout: projets
 ---
 ### Summary
 * Hands-on knowledge of Information Systems as deplyed in corporate environment;
