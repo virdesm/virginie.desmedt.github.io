@@ -1,6 +1,6 @@
 ---
 title: Project 1
-layout: project
+layout: compress
 ---
 ### Summary
 * Hands-on knowledge of Information Systems as deplyed in corporate environment;
