@@ -1,6 +1,6 @@
 ---
 title: EU grant lifecycle programmes - Business workflow applications UI/UX
-layout: project
+layout: post
 post-image: "https://raw.githubusercontent.com/virdesm/virginie.desmedt.github.io/gh-pages/assets/images/project-3.png"
 description: Design of a Business Activity Monitoring timeline to visualise the events occurring on a single project throughout either the project as a whole or throughout one or more phases of the project. Any timeslice during the lifecycle of a project can be selected and focussed upon. Thus the user can control the “granularity” of the required information.
 tags:
@@ -8,5 +8,6 @@ tags:
 - post
 - test
 ---
+
 
 
