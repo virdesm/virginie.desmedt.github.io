@@ -1,7 +1,7 @@
 ---
 title: What is Jekyll? How to use it?
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png?token=AHMQUELVG36IDSA4SZEZ5P26Z64IW"
+post-image: "https://raw.githubusercontent.com/virdesm/virginie.desmedt.github.io/gh-pages/assets/images/project-1.png"
 description: Jekyll is a static site generator. You give it text written in your favorite
   markup language and it uses layouts to create a static website.
 tags:
@@ -46,5 +46,6 @@ Again, `my-site` is just a random name which is customizable.
 
 ### Browsing your Jekyll site
 > # Browse to [`http://localhost:4000/`](http://localhost:4000/){:target="_blank"}
+
 
 ###### On encountering any problem while building and serving your Jekyll site you can consider visiting to the [troubleshooting](https://jekyllrb.com/docs/troubleshooting/#configuration-problems){:target="_blank"} page
