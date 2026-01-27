@@ -363,10 +363,12 @@ a.navbar-item.is-active {
 }
 @media screen and (min-width: 1408px) {
   .column.is-one-fifth-fullhd {
-    flex: none;
-    width: 33%;
+    flex: unset;
+    width: 32%;
+    height: auto;
   }
 }
+
 
 
 
