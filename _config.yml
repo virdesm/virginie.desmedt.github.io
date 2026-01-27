@@ -82,6 +82,12 @@ defaults:
     values:
       layout: project
 
+      -
+    scope:
+      type: 'project1'
+    values:
+      layout: project  
+
 # Exclude
 exclude:
   - .sass-cache/
@@ -94,4 +100,5 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
 
