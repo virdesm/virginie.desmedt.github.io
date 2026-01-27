@@ -1,5 +1,5 @@
 ---
-title: Project 1
+title: EU projects
 layout: project
 ---
 
