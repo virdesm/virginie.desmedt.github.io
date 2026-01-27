@@ -364,13 +364,19 @@ a.navbar-item.is-active {
 
 
 @media screen and (min-width: 1408px) {
-.card-content {
-  background-color: transparent;
-  padding: 1.5rem;
-  height: 20rem;
-  width: 26rem;
+  .card-content {
+    background-color: transparent;
+    padding: 1.5rem;
+    height: 26rem;
+    width: 26rem;
   }
 }
+
+.title {
+  margin: auto 0.75rem !important;
+  padding-bottom: 1rem;
+}
+
 
 
 
