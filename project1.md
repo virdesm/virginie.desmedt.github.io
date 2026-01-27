@@ -1,5 +1,5 @@
 ---
-title: Work experience
+title: Project 1
 layout: project
 ---
 ### Summary
