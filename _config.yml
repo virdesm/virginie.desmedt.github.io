@@ -86,13 +86,8 @@ defaults:
     scope:
       type: 'project1'
     values:
-      layout: project1 
-  -
-    scope:
-      path: "project1"
-      type: 'pages'
-    values:
-      layout: 'project'
+      layout: project
+  
 
 # Exclude
 exclude:
@@ -106,6 +101,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
 
 
 
