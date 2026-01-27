@@ -361,12 +361,13 @@ a.navbar-item.is-active {
         }
     }
 }
-
-.card-content {
-  background-color: transparent;
-  padding: 1.5rem;
-  height: 20em;
+@media screen and (min-width: 1408px) {
+  .column.is-one-fifth-fullhd {
+    flex: none;
+    width: 33%;
+  }
 }
+
 
 
 
