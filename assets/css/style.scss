@@ -361,12 +361,7 @@ a.navbar-item.is-active {
         }
     }
 }
-@media screen and (min-width: 1408px) {
-  .column.is-one-fifth-fullhd {
-    flex: unset;
-    width: 32%;
-  }
-}
+
 
 @media screen and (min-width: 1408px) {
 .card-content {
@@ -375,6 +370,7 @@ a.navbar-item.is-active {
   height: 20rem;
   }
 }
+
 
 
 
