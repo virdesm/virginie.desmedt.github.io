@@ -365,7 +365,14 @@ a.navbar-item.is-active {
   .column.is-one-fifth-fullhd {
     flex: unset;
     width: 32%;
-    height: auto;
+  }
+}
+
+@media screen and (min-width: 1408px) {
+.card-content {
+  background-color: transparent;
+  padding: 1.5rem;
+  height: 20rem;
   }
 }
 
